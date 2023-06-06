@@ -1,0 +1,74 @@
+UL lista desordenada
+ <LI 
+OL lista ordenada 
+
+<a href para redireccionar a otras paginas 
+../ volver atras carpeta
+
+
+Body lo que se ve
+head lo que no se ve
+
+Title
+
+H1 listado hasta 6
+
+N negrita
+
+VIDEOS
+video src   CONTROLS para que se vea/escuche
+audio src
+
+
+
+div dividir
+
+Formularios:
+Form
+Tipos de imput 
+        <input type="email">
+      	<input type="password">
+      	<input type="number">
+      	<input type="color">
+      	<input type="range">
+      	<input type="date">
+      	<input type="time">
+      	<input type="button">
+      	<input type="submit">
+      	<input type="text">
+
+Text area, readonly
+
+
+Metadatos: <meta
+utf8 codificacion universal
+
+meta keywords, palabras claves
+description descripcion
+author autor
+copyright marca yo fabricante
+meta robots index mostrable noindex no mostrable.
+
+HTML semantico
+En el header se crea un articulo <Article y dentro van las secciones <section
+
+<aside> al costado
+<footer> pie de pagina 
+
+
+TABLAS
+<table
+  <tr
+    <td
+
+FILA
+
+Borde border
+
+
+ICONOS Y CENTER
+Imagen CON ALT, ATRIBUTO SI O SI\
+
+
+Center centrar textos/imagenes
+
